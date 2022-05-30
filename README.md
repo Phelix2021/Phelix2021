@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Phelix2021
+- 👋 Hi, I’m @Phelix Omeja
 - 👀 I’m interested in Python,PHP,MySQL,HTML 5
 - 🌱 I’m currently learning Python Programming
 - 💞️ I’m looking to collaborate on relevant and projects related to above languages
